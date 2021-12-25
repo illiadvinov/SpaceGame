@@ -25,7 +25,7 @@ public class Base : MonoBehaviour
     
     private void OnTriggerEnter(Collider other) 
     {
-        Debug.Log("Press E to go to Hub, Press N to sell Ore, Press B to buy an Energy");
+               Debug.Log("Press E to go to Hub, Press N to sell Ore, Press B to buy an Energy\n 1 - to buy/upgrage Command Center ,  2 - to buy/upgrage Body, 3 - to buy/upgrage Engine, 4 - to buy/upgrage Battery, 5 - to buy/upgrage Storage, 6 - to buy/upgrage Gun, 7 - to buy/upgrage Asteroid Collector, 8 - to buy/upgrage Converter, 9 - to buy/upgrage Generator, 0 - to buy/upgrage Repairment ");
     }
 
     private void OnTriggerStay(Collider other) 
