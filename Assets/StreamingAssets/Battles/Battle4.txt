@@ -1,0 +1,8 @@
+Info of 4
+Your ship stats:  health: 380, damage: 185
+Enemy stats: health: 229, damage: 120
+Enemy damaged your ship: 120 , Ship current health is: 260
+Your ship damaged enemy: 185 , Enemy current health is: 44
+Enemy damaged your ship: 120 , Ship current health is: 140
+Your ship damaged enemy: 185 , Enemy current health is: -141
+You won!
